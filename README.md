@@ -5,9 +5,12 @@ This project is a real-time body language classifier that uses a webcam feed to 
 
 ## Features
 Real-time Detection: Utilizes the webcam feed to detect and classify body language gestures.
+
 Multiple Gestures: Recognizes various body gestures such as hand movements, facial expressions, and posture.
+
 Customizable Training: Provides functionality to collect data and train a custom machine learning model based on specific gestures.
-Installation
+
+## Installation
 Ensure you have Python installed.
 
 ## Usage
